@@ -1,3 +1,4 @@
+/// <reference types="nativewind/types" />
 // declare module 'react-native-custom-switch-new';
 // declare module 'react-redux';
 declare module 'lodash/isEmpty';
